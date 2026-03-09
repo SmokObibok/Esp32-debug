@@ -7,3 +7,5 @@ you also have to install openocd from https://github.com/xpack-dev-tools/openocd
 
 
 if debug does not work Hold BOOT click RESET and then let go BOOT.
+
+Also change the location of folders or name of user.
