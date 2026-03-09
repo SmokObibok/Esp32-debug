@@ -6,7 +6,7 @@
       "type": "cortex-debug",
       "request": "launch",
 
-      "gdbPath": "C:/Users/barte/zephyr-sdk-0.17.4/xtensa-espressif_esp32s3_zephyr-elf/bin/xtensa-espressif_esp32s3_zephyr-elf-gdb.exe",
+      "gdbPath": "C:/Users/user/zephyr-sdk-0.17.4/xtensa-espressif_esp32s3_zephyr-elf/bin/xtensa-espressif_esp32s3_zephyr-elf-gdb.exe",
       "executable": "${workspaceFolder}/build/zephyr/zephyr.elf",
       "cwd": "${workspaceFolder}",
 
